@@ -1637,6 +1637,9 @@ supported_targets! {
 
     ("riscv32i-unknown-none-elf", riscv32i_unknown_none_elf),
     ("riscv32im-succinct-zkvm-elf", riscv32im_succinct_zkvm_elf),
+    ("riscv64im-unicorn-zkvm-elf", riscv64im_unicorn_zkvm_elf),
+    ("riscv64im-succinct-zkvm-elf", riscv64im_succinct_zkvm_elf),
+    ("riscv64gc-unicorn-zkvm-elf", riscv64gc_unicorn_zkvm_elf),
     ("riscv32im-unknown-none-elf", riscv32im_unknown_none_elf),
     ("riscv32imc-unknown-none-elf", riscv32imc_unknown_none_elf),
     ("riscv32imc-esp-espidf", riscv32imc_esp_espidf),
